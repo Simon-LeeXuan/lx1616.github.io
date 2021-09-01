@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 2732232 */
+    /* Color fonts */
+    src:
+        url('//at.alicdn.com/t/font_2732232_ev9pjkneev7.woff2?t=1628502526739') format('woff2'),
+        url('//at.alicdn.com/t/font_2732232_ev9pjkneev7.woff?t=1628502526739') format('woff'),
+        url('//at.alicdn.com/t/font_2732232_ev9pjkneev7.ttf?t=1628502526739') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 42px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+}
+
+.icon-icon-davinci-prog:before {
+    content: "\e63d";
+}
+
+.icon-Microsoft-Excel:before {
+    content: "\e6d6";
+}
+
+.icon-Microsoft-Powerpoint:before {
+    content: "\e6d7";
+}
+
+.icon-Microsoft-Word:before {
+    content: "\e6d8";
+}
+
+.icon-HTML:before {
+    content: "\e706";
+}
+
+.icon-webstorm:before {
+    content: "\e713";
+}
+
+.icon-java:before {
+    content: "\e639";
+}
+
+.icon-Python:before {
+    content: "\e891";
+}
+
+.icon-PostgreSQL:before {
+    content: "\e8b7";
+}
+
+.icon-a-adobeafter-effects:before {
+    content: "\e8c0";
+}
+
+.icon-a-adobeillustrator:before {
+    content: "\e8c1";
+}
+
+.icon-a-adobelightroom-classic:before {
+    content: "\e8c2";
+}
+
+.icon-a-adobepremiere:before {
+    content: "\e8c3";
+}
+
+.icon-a-adobephotoshop:before {
+    content: "\e8c4";
+}
+
+.icon-a-adobexd:before {
+    content: "\e8c5";
+}
+
+.icon-icon_bilibili:before {
+    content: "\e600";
+}
